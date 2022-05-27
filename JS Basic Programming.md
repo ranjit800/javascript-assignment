@@ -1,44 +1,42 @@
-﻿
+*Programming with JavaScript Assignment*
 
-**Programming with JavaScript Assignment**
+*PROBLEM 1*
 
-**PROBLEM 1**
+You are provided with a number, "*N*". Find its factorial.
 
-You are provided with a number, "**N**". Find its factorial.
-
-**Input Description:** ꢀ
+*Input Description:* ꢀ
 
 A positive integer is provided as an input.
 
-**Output Description:** ꢀ
+*Output Description:* ꢀ
 
 Print the factorial of the integer.
 
-**Sample Input :**
+*Sample Input :*
 
 5
 
-**Sample Output :**
+*Sample Output :*
 
 120
 
-**PROBLEM 2**
+*PROBLEM 2*
 
 You are given with a number "N", find its cube.
 
-**Input Description:** ꢀ
+*Input Description:* ꢀ
 
 A positive integer is provided as an input.
 
-**Output Description:** ꢀ
+*Output Description:* ꢀ
 
 Find the cube of the number.
 
-**Sample Input :**
+*Sample Input :*
 
 2
 
-**Sample Output :**
+*Sample Output :*
 
 8
 
@@ -48,53 +46,55 @@ Find the cube of the number.
 
 
 
-**PROBLEM 3**
+*PROBLEM 3*
 
-The area of an equilateral triangle is ¼(√3a2) where "**a**" represents a side of the
+The area of an equilateral triangle is ¼(√3a2) where "*a*" represents a side of the
 
-triangle. You are provided with the side "**a**". Find the area of the equilateral triangle.
+triangle. You are provided with the side "*a*". Find the area of the equilateral triangle.
 
-**Input Description:** ꢀ
+*Input Description:* ꢀ
 
 The side of an equilateral triangle is provided as the input.
 
-**Output Description:** ꢀ
+*Output Description:* ꢀ
 
 Find the area of the equilateral triangle and print the answer up to 2 decimal places
 
 after rounding off.
 
-**Sample Input :**
+*Sample Input :*
 
 20
 
-**Sample Output :**
+*Sample Output :*
 
 173.21
 
-**PROBLEM 4**
+*PROBLEM 4*
 
+You will be provided with a number. Print the number of days in the month
 
+corresponding to that number.
 
 Note: In case the input is February, print 28 days. If the Input is not in valid range
 
 print "Error".
 
-**Input Description:** ꢀ
+*Input Description:* ꢀ
 
 Input n -> month number
 
-**Output Description:** ꢀ
+*Output Description:* ꢀ
 
 Find the days in the month corresponding to the input number. Print Error if the input
 
 is not in a valid range.
 
-**Sample Input :**
+*Sample Input :*
 
 8
 
-**Sample Output :**
+*Sample Output :*
 
 31
 
@@ -104,49 +104,49 @@ is not in a valid range.
 
 
 
-**PROBLEM 5**
+*PROBLEM 5*
 
-You are given with a number **A** i.e. the temperature in Celcius. Write a program to
+You are given with a number *A* i.e. the temperature in Celcius. Write a program to
 
 convert this into Fahrenheit.
 
-*Note: In case of decimal values, round-off to **two** decimal places.*
+Note: In case of decimal values, round-off to **two* decimal places.*
 
-**Input Description:**
+*Input Description:*
 
 A number is provided in Celcius as the input of the program.
 
-**Output Description:**
+*Output Description:*
 
 The output shall be the temperature converted into Fahrenheit corresponding to the
 
 input value print up to two decimal places and round off if required.
 
-**Sample Input:**
+*Sample Input:*
 
 12
 
-**Sample Output:**
+*Sample Output:*
 
 53.60
 
-**PROBLEM 6**
+*PROBLEM 6*
 
 Write a code to get an integer N and print the sum of values from 1 to N.
 
-**Input Description:** ꢀ
+*Input Description:* ꢀ
 
 A single line contains an integer N.
 
-**Output Description:** ꢀ
+*Output Description:* ꢀ
 
 Print the sum of values from 1 to N.
 
-**Sample Input :**
+*Sample Input :*
 
 10
 
-**Sample Output :** 55
+*Sample Output :* 55
 
 3
 
@@ -154,49 +154,49 @@ Print the sum of values from 1 to N.
 
 
 
-**PROBLEM 7**
+*PROBLEM 7*
 
 You are provided with a number "N", Find the Nth term of the series: 1 , 4, 9, 16, 25,
 
 36, 49, 64, 81, .......
 
-(Print "***Error***" if **N** = negative value and 0 if **N** = 0).
+(Print "**Error*" if **N* = negative value and 0 if *N* = 0).
 
-**Input Description:** ꢀ
+*Input Description:* ꢀ
 
 An integer N is provided to you as the input.
 
-**Output Description:** ꢀ
+*Output Description:* ꢀ
 
 Find the Nth term in the provided series.
 
-**Sample Input :**
+*Sample Input :*
 
 18
 
-**Sample Output :**
+*Sample Output :*
 
 324
 
-**PROBLEM 8**
+*PROBLEM 8*
 
 \- Let "A" be a string. Remove all the whitespaces and find it's length.
 
-(Print "***Error***" if **N** = negative value and 0 if **N** = 0).
+(Print "**Error*" if **N* = negative value and 0 if *N* = 0).
 
-**Input Description:** ꢀ
+*Input Description:* ꢀ
 
 A string is provide as an input
 
-**Output Description:** ꢀ
+*Output Description:* ꢀ
 
 Remove all the whitespaces and then print the length of the remaining string.
 
-**Sample Input :**
+*Sample Input :*
 
 Lorem Ipsum
 
-**Sample Output :**
+*Sample Output :*
 
 10
 
@@ -206,7 +206,7 @@ Lorem Ipsum
 
 
 
-**PROBLEM 9**
+*PROBLEM 9*
 
 You are given the coefficients of a quadratic equation in order A, B & C.
 
@@ -226,21 +226,21 @@ Note: Use Shri Dharacharya's Method to solve i.e. X = {-b + √(b² - 4ac) } / 2
 
 b-√(b² -4ac)} / 2a
 
-**Input Description:** ꢀ
+*Input Description:* ꢀ
 
 Three numbers corresponding to the coefficients of x(squared), x and constant are
 
 given as an input in that particular order
 
-**Output Description:** ꢀ
+*Output Description:* ꢀ
 
 Print the two values of X after rounding off to 2 decimal places if required.
 
-**Sample Input:**
+*Sample Input:*
 
 1 5 6
 
-**Sample Output:**
+*Sample Output:*
 
 -2.00 -3.00
 
@@ -250,7 +250,7 @@ Print the two values of X after rounding off to 2 decimal places if required.
 
 
 
-**PROBLEM 10**
+*PROBLEM 10*
 
 Loki wants to steal the tesseract but in order to do so, he has to rearrange the elements
 
@@ -262,23 +262,23 @@ to “sort the even positioned elements of an array, starting from the element a
 
 in ascending order”. Manipulate the array so as to help Loki steal the tesseract.
 
-**Input Description:** ꢀ
+*Input Description:* ꢀ
 
 Size of the array followed by the elements of the array
 
-**Output Description:** ꢀ
+*Output Description:* ꢀ
 
 Even index array elements sorted in ascending order
 
-**Sample Input :**
+*Sample Input :*
 
 5 3 9 1 44 6
 
-**Sample Output :**
+*Sample Output :*
 
 1 9 3 44 6
 
-**PROBLEM 11**
+*PROBLEM 11*
 
 \- Given an array of N elements.find the number of occurences of each character and
 
@@ -288,17 +288,17 @@ number of times, print the numbers in decreasing order.
 
 Input Size : |N| <= 100000ꢀ
 
-**Sample Testcase :**
+*Sample Testcase :*
 
-**INPUT**
+*INPUT*
 
-**5**
+*5*
 
-**3 3 4 4 7 8**
+*3 3 4 4 7 8*
 
-**OUTPUT**
+*OUTPUT*
 
-**4 3 8 7**
+*4 3 8 7*
 
 6
 
@@ -306,7 +306,7 @@ Input Size : |N| <= 100000ꢀ
 
 
 
-**PROBLEM 12**
+*PROBLEM 12*
 
 Simi is learning about palindromic numbers. Her teacher gave him the task to count
 
@@ -314,23 +314,23 @@ all palindromic numbers present in that range.Simi has told you about this and w
 
 your help. You design an algorithm in order to help simi.
 
-**Input Description:** ꢀ
+*Input Description:* ꢀ
 
 You will be given a number ‘n’
 
-**Output Description:** ꢀ
+*Output Description:* ꢀ
 
 Print the count of all palindromic numbers till ’n’(inclusive)
 
-**Sample Input :**
+*Sample Input :*
 
 5
 
-**Sample Output :**
+*Sample Output :*
 
 5
 
-**PROBLEM 13**
+*PROBLEM 13*
 
 Ajay is given a series(In example).he gone through the series but unable to understand
 
@@ -338,19 +338,19 @@ it properly,he has hired you.Your task is to understand the series and print the
 
 2,6,12,20,30... .You are given with a number ‘n’. Find the nth number of series.
 
-**Input Description:** ꢀ
+*Input Description:* ꢀ
 
 You will be given a number ‘n’
 
-**Output Description:** ꢀ
+*Output Description:* ꢀ
 
 Print the nth number of series
 
-**Sample Input :**
+*Sample Input :*
 
 5
 
-**Sample Output :** 30
+*Sample Output :* 30
 
 7
 
@@ -358,53 +358,52 @@ Print the nth number of series
 
 
 
-**PROBLEM 14**
+*PROBLEM 14*
 
 You are given with an array. Your task is to print the left rotated array after k
 
 opearations. Time:O(n) Extra Space: O(1)
 
-**Input Description:** ꢀ
+*Input Description:* ꢀ
 
 First line contains two number ‘n’ and ‘k’.Next line contains n space separated
 
 numbers.
 
-**Output Description:** ꢀ
+*Output Description:* ꢀ
 
 Print the array as mentioned.
 
-**Sample Input :**
+*Sample Input :*
 
 7 3
 
 1 2 3 4 5 6 7
 
-**Sample Output :**
+*Sample Output :*
 
 4 5 6 7 1 2 3
 
-**PROBLEM 15**
+*PROBLEM 15*
 
 You are given a postfix expression. Evaluate the given expression and print the result.
 
-**Input Description:** ꢀ
+*Input Description:* ꢀ
 
 The first line of the input is a string N, containing operators and numbers seperated by
 
 the single space which forms a postfix expression.
 
-**Output Description:** ꢀ
+*Output Description:* ꢀ
 
 Evaluate the post expression and print the result.
 
-**Sample Input :**
+*Sample Input :*
 
 5 3 1 \* + 9 -
 
-**Sample Output :**
+*Sample Output :*
 
 -1
 
 8
-
