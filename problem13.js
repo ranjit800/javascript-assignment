@@ -1,6 +1,6 @@
 let d, i, num = 10;
 let arr = [];
-function item(n){
+function item(num){
   for(i =1;i<=num;i++){
     d = i*i+i;
     arr.push(d);
